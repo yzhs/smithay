@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["compositor","Utilities for handling surfaces, subsurfaces and regions"],["output","Output advertizing capabilities"],["seat","Seat global utilities"],["shell",""],["shm","SHM handling helpers"]]});
